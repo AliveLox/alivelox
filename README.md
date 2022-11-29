@@ -2,7 +2,6 @@
 
   - 👋 Hi I'm **AliveLox**   
   - ❤ I love to learn new **Stuff**
-  - 🔭 I’m currently working on **POS Own Store**
   - 🌱 I’m currently learning **JS especially in Discord Bot**
   - 💬 Ask me about **anything that u want**
   - ⚡ Fun fact **I am very mysterious person**
