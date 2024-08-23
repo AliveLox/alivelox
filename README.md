@@ -6,7 +6,7 @@
   - 💬 Ask me about **anything that u want**
   - ⚡ Fun fact **I am very mysterious person**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hcnhgmywkgi43nrmxu7bjg2x2e&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hcnhgmywkgi43nrmxu7bjg2x2e&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alivelox&theme=highcontrast" alt="alivelox" /></p>
 
